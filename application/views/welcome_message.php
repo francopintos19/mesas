@@ -22,9 +22,9 @@
 
         <tbody>
           <tr>
-            <td>Alvin</td>
-            <td>Eclair</td>
-            <td>$0.87</td>
+            <td>Karancho</td>
+            <td>Caceres</td>
+            <td>$1</td>
           </tr>
           <tr>
             <td>Alan</td>
