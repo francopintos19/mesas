@@ -14,7 +14,7 @@
     	<table>
         <thead>
           <tr>
-              <th data-field="id">Name</th>
+              <th data-field="id">Name karancho</th>
               <th data-field="name">Item Name</th>
               <th data-field="price">Item Price</th>
           </tr>
