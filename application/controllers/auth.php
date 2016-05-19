@@ -1,20 +1,13 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-/**
- * Example Auth controller using Authme
- *
- * @package Authentication
- * @category Libraries
- * @author Gilbert Pellegrom
- * @link http://dev7studios.com
- * @version 1.0
- */
+
+
 
 class Auth extends CI_Controller {
 
 	public function __construct()
 	{
 		parent::__construct();
-		
+		$this->load->view('layouts/header');
 		$this->load->library('authme');
 		$this->load->helper('authme');
 		$this->config->load('authme');		
