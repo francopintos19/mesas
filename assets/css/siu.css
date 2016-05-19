@@ -252,9 +252,9 @@ body.encabezado
 .encabezado_ua 
 {
 	font-weight: bold;
-	padding-top:1em;
+	padding-top:2em;
 	text-align: center;
-	margin:0;
+	margin: auto;
 	color: #073b6c;
 }
 

@@ -13,8 +13,7 @@
 		
 		<div class="encabezado">
 			<div class="encabezado_img">
-				<a href="">
-				<img src="<?php echo base_url();?>/assets/images/logo.gif" alt="logo del SIU"></a>
+				<img src="<?php echo base_url();?>/assets/images/logo.gif" alt="logo del SIU">
 			</div>
 				
 			<div class="encabezado_titulo" >
