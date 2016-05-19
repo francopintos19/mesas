@@ -19,6 +19,7 @@ class Auth extends CI_Controller {
 		$this->load->helper('authme');
 		$this->config->load('authme');		
 		$this->load->helper('url'); 
+				
 	}
 	
 	public function index()
